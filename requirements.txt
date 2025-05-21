@@ -1,0 +1,8 @@
+## Prerequisites
+Python 3.8+
+pip install pandas numpy tqdm
+## Libraries Used
+	json — Standard Python JSON parser
+	pandas — DataFrame structure and manipulation
+	flatten_json / json_normalize — For nested structures
+	logging — Logging and metric recording
